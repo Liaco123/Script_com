@@ -1,0 +1,4 @@
+__pycache__/
+modbus_tk/__pycache__/
+modbus_tk/modbus_tk.egg-info/
+pyproject.toml
